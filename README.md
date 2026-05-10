@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Andrew 👋
 
-<!--
-**AndrewDoan/AndrewDoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with three years at Apple, returning to tech after a career break and currently focused on modern web and mobile test automation.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- Building Playwright skills for end-to-end web automation
+- Refreshing JavaScript/TypeScript fundamentals
+- Open to remote QA / SDET roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+- **Languages:** JavaScript, Node.js
+- **Testing:** Mocha, Playwright (learning), Jira, Apple Radar
+- **Tools:** Xcode, Charles Proxy, Git
+- **Background:** Manual + automated testing, regression, localization, mobile (iOS) + web
+
+**Reach me:**
+- 📧 addoan11@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/addoan)
