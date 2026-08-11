@@ -5,7 +5,7 @@ Currently working on:
 
 * Building Playwright skills for end-to-end web automation
 * Refreshing JavaScript/TypeScript fundamentals
-* Building [Table]([https://github.com/yourusername/your-repo-name](https://github.com/AndrewDoan/food-app)) — a private recipe-sharing app (Next.js + Supabase), exploring Postgres Row-Level Security as a permission model
+* Building ([https://github.com/yourusername/your-repo-name](https://github.com/AndrewDoan/food-app)) — a private recipe-sharing app (Next.js + Supabase), exploring Postgres Row-Level Security as a permission model
 * Open to remote QA / SDET roles
 
 Tech I work with:
