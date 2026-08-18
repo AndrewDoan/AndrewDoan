@@ -1,7 +1,7 @@
 Hi, I'm Andrew 👋
 QA Engineer with three years at Apple, returning to tech after a career break. Currently deepening my test automation skills while also building full-stack projects — open to QA/SDET or junior Software Engineer roles.
 
-### 🍽️ [Table](https://github.com/AndrewDoan/) — live at [food-app-two-sable.vercel.app](https://food-app-two-sable.vercel.app/)
+### 🍽️ [Table](https://github.com/AndrewDoan/food-app) — live at [food-app-two-sable.vercel.app](https://food-app-two-sable.vercel.app/)
 
 A private, invite-only app for sharing recipes and restaurant reviews within your actual circle of friends — no public profiles, no discoverability, no ads, no strangers.
 
